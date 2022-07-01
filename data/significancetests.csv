@@ -1,0 +1,5 @@
+﻿term,description,package,title
+t.test,Determines if two means are different,What does this do?,Significance tests
+p-value,The probability of randomness,What is this?
+null hypothesis,There is no difference,What is this?
+reject the null,There is a difference,What is this?

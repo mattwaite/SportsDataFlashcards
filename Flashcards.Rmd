@@ -51,6 +51,13 @@ flashcard("data/filtering.csv")
 flashcard("data/transforming.csv")
 ```
 
+## Significance tests
+
+```{r}
+flashcard("data/significancetests.csv")
+```
+
+
 ### Credits
 
 Stevens, Jeffrey R. (2022). flashr: Creates flashcards of terms and definitions. (version 0.0.2) https://github.com/JeffreyRStevens/flashr
