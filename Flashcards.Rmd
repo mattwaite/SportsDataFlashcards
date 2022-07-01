@@ -1,0 +1,56 @@
+---
+title: "SPMC 350 Flashcards"
+output: html_notebook
+---
+
+This notebook serves as a companion to the [SPMC 350 Sports Data Tutorials](https://github.com/mattwaite/SportsDataTutorials) and/or the [SPMC 350 Sports Data Book](http://mattwaite.github.io/sports/).
+
+It uses the [`flashr`](https://github.com/JeffreyRStevens/flashr) library. 
+
+First load the `flashr` library.
+
+```{r}
+library(flashr)
+```
+
+Each of these corresponds to a chapter:
+
+## Basics
+
+```{r}
+flashcard("data/basics.csv")
+```
+
+## Data basics
+
+```{r}
+flashcard("data/data_basics.csv")
+```
+
+## Aggregates
+
+```{r}
+flashcard("data/aggregates.csv")
+```
+
+## Mutating
+
+```{r}
+flashcard("data/mutating.csv")
+```
+
+## Filtering
+
+```{r}
+flashcard("data/filtering.csv")
+```
+
+## Transforming
+
+```{r}
+flashcard("data/transforming.csv")
+```
+
+### Credits
+
+Stevens, Jeffrey R. (2022). flashr: Creates flashcards of terms and definitions. (version 0.0.2) https://github.com/JeffreyRStevens/flashr

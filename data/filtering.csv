@@ -1,0 +1,8 @@
+﻿term,description,package,title
+"""==""",Equal to,What does this mean?,Filtering
+"""!=""",Does not equal,What does this mean?,
+>,Greater than,What does this mean?,
+>=,Greater than or equal to,What does this mean?,
+<,Less than,What does this mean?,
+<=,Less than or equal to,What does this mean?,
+%in%,In this list of things,What does this mean?,

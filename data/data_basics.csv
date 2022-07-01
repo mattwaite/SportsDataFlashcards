@@ -1,0 +1,7 @@
+﻿term,description,package,title
+rows,Across,Which direction do these go?,Data basics
+columns,Up and down,Which direction do these go?,
+numeric,Numbers,What kind of data is stored with this?,
+character,Text,What kind of data is stored with this?,
+date,Fully formed dates -- month/day/year,What kind of data is stored with this?,
+Logical,TRUE or FALSE,What kind of data is stored with this?,

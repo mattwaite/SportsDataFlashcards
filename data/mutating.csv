@@ -1,0 +1,8 @@
+﻿term,description,package,title
+mutate(),Creates a new column,What does this do?,Mutating
+group_by(),Puts like things together,What does this do?,
+arrange(),Puts rows in order,What does this do?,
+litte thing / big thing,A percentage,What does this calculate?,
+sum  / count,An average/mean,What does this calculate?,
+(new - old)/old,The percent change in two numbers,What does this calculate?,
+Thing - Other Thing,A difference/differential/margin,What does this calculate?,

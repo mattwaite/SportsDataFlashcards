@@ -1,0 +1,9 @@
+﻿term,description,package,title
+group_by,Puts like things together into groups,What does this do?,Aggregates
+summarize,Creates summary stats for groups,What does this do?,
+n(),Counts things,What does this do?,
+mean,Finds the average,What does this do?,
+median,Finds the middle number,What does this do?,
+stdev,Finds the standard deviation,What does this do?,
+min,Finds the minimum value,What does this do?,
+max,Finds the maximum value,What does this do?,
