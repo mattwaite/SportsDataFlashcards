@@ -57,6 +57,12 @@ flashcard("data/transforming.csv")
 flashcard("data/significancetests.csv")
 ```
 
+## Correlations and regressions
+
+```{r}
+flashcard("data/regression.csv")
+```
+
 
 ### Credits
 

@@ -1,0 +1,6 @@
+﻿term,description,package,title
+correlation,Strength of relationship,What does this answer?,Correlation
+regression,Variance explained,What does this answer?,
+r-squared,The percent of variance explained,What is this?,
+p-value,The percent chance this is random,What is this?,
+y=mx+b,The equation of a line,What is this?,
